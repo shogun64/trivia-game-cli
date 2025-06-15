@@ -1,3 +1,5 @@
+//Note for Carla - Could not figure out how to integrate a time limit on answering questions, but everything else should be done
+
 import chalk from 'chalk';
 import { select } from "@inquirer/prompts";
 
